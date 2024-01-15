@@ -6,4 +6,4 @@ Ref paper : https://arxiv.org/abs/1411.1784
 
 Model architecture :-
 
-![alt text]([https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png](https://machine-learning-note.readthedocs.io/en/latest/_images/cGAN.png)https://machine-learning-note.readthedocs.io/en/latest/_images/cGAN.png)
+![alt text](https://machine-learning-note.readthedocs.io/en/latest/_images/cGAN.png)
