@@ -4,6 +4,7 @@ Providing the additional information Y which is the target label, to be able to 
 
 Ref paper : https://arxiv.org/abs/1411.1784
 
-Model architecture :-
+![alt text](https://blogs.rstudio.com/ai/posts/2018-09-20-eager-pix2pix/images/pix2pixlosses.png)
 
-![alt text](https://machine-learning-note.readthedocs.io/en/latest/_images/cGAN.png)
+
+I've trained this on the Anime dataset(which can be found here :- )
