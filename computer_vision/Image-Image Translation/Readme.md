@@ -1,7 +1,7 @@
 <h3>Image-Image translation</h3>
-Implementation of the paper :- https://arxiv.org/abs/1611.07004
+Implementation of the Image-Image translation paper in PyTorch :- https://arxiv.org/abs/1611.07004
 
-
+In this paper, they address the problem of image-image translation by using conditional gans.
 
 
 
